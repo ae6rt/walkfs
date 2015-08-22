@@ -1,4 +1,8 @@
-A simple filesystem walker with depth control, similar to "find DIR -maxdepth N ..."
+A simple filesystem walker with depth control, similar to 
+
+```
+$ find DIR -maxdepth N -name T"
+```
 
 ```
 $ walkfs -h
